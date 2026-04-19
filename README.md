@@ -52,3 +52,4 @@ The overall goal is to create a structured, accessible, and reusable resource ba
 The content in this repository is intended to support HEHESPO’s nonprofit and development work. Where applicable, external tools, frameworks, or third-party references remain subject to their respective owners’ terms, policies, and intellectual property guidelines.
 
 Use of this repository’s materials should not imply endorsement by any external institution unless explicitly stated.
+https://chatgpt.com/g/g-p-69e4783f6f308191b22dd07b2ea86058-ehepsorg/project
