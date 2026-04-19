@@ -1,33 +1,54 @@
-# Microsoft for Nonprofits
+# HEHESPO
 
-This repository contains lightweight, open source solutions designed to help nonprofit and international development organizations achieve their missions. It is maintained by Microsoft’s Tech for Social Impact team whose goal is to empower every nonprofit and humanitarian organization to accelerate social good by providing access to relevant, affordable, and innovative cloud and AI solutions.
+This repository contains practical, open-source resources and tools designed to support HEHESPO’s mission in education, humanitarian action, environmental protection, capacity building, and partnership-based development for Afghanistan.
 
-The solutions contained in this repository are accelerators designed to make it easier for ISV partners and other solution providers to create customized, industry-specific solutions.
+Website: https://eheps.org
+
+It is intended to serve as a lightweight organizational resource hub for digital tools, program materials, operational documents, and future technical solutions that can help strengthen nonprofit effectiveness, transparency, coordination, and impact.
+
+The resources in this repository are designed to support HEHESPO’s institutional development and make it easier to organize, share, and scale initiatives, systems, and collaboration materials.
 
 ## Table of Contents
 
-- [Microsoft for Nonprofits](#microsoft-for-nonprofits)
+- [HEHESPO](#hehespo)
   - [Table of Contents](#table-of-contents)
-  - [Nonprofit Solutions](#nonprofit-solutions)
-  - [Trademark](#trademark)
+  - [Focus Areas](#focus-areas)
+  - [Purpose of This Repository](#purpose-of-this-repository)
+  - [Use and Attribution](#use-and-attribution)
 
 ---
 
-## Nonprofit Solutions
+## Focus Areas
 
-| **Solution**                                    | **Description**                                                                                                    | **Deploy** | **More info** |
-|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|------------|---------------|
-| [Azure Landing Zone for Nonprofits](./AzureLandingZoneforNonprofits/README.md) | Azure Landing Zone for Nonprofits is a preconfigured cloud environment that provides a blueprint to help set up core Azure services including networking, management, identity, and security. | [Deploy](./Documents/alz-build-and-deploy.md) | [Documentation](https://learn.microsoft.com/en-us/industry/nonprofit/azure-landing-zone) |
-| [Common Data Model for Nonprofits](./CommonDataModelforNonprofits/README.md) | The Common Data Model for Nonprofits is an open source data schema that reflects nonprofit industry best practices. It promotes cross-solution and cross-organization data interoperability, enabling powerful insights across activities and departments. | [Deploy](./Documents/dataverse-build-and-deploy.md) | [Documentation](https://aka.ms/DocsCDMforNonprofits) |
-| [Fundraising](./Fundraising/README.md)                     | Fundraising provides partners with a flexible, easily extensible foundation for building fundraising solutions for nonprofit customers. | [Deploy](./Documents/dataverse-build-and-deploy.md) | [Documentation](https://learn.microsoft.com/en-us/industry/nonprofit/fundraising) |
-| [Grant Management](./GrantManagement/README.md)           | Grant Management provides partners with a flexible, easily extensible foundation for building grant management solutions for nonprofit customers. | [Deploy](./Documents/dataverse-build-and-deploy.md) | [Documentation](https://learn.microsoft.com/en-us/industry/nonprofit/grant-management) |
-| [Nonprofit data solutions in Microsoft Fabric](./NonprofitDataSolutions/Fundraising/README.md) | Nonprofit data solutions in Microsoft Fabric consist of a preconfigured, scalable data architecture and analytics framework designed to help nonprofit organizations unify, transform, and analyze their data. | [Deploy](https://learn.microsoft.com/en-us/industry/nonprofit/deploy-nonprofit-data-solutions) | [Documentation](https://learn.microsoft.com/en-us/industry/nonprofit/nonprofit-data-solutions-overview) |
-| [Outcome Management](./OutcomeManagement/README.md)       | Outcome Management provides partners with a flexible, easily extensible foundation for building program measurement solutions for nonprofit customers. | [Deploy](./Documents/dataverse-build-and-deploy.md) | [Documentation](https://learn.microsoft.com/en-us/industry/nonprofit/outcome-management) |
-| [Volunteer Engagement](./VolunteerEngagement/README.md)   | Volunteer Engagement is a Power Page where volunteers can easily find and apply for engagement opportunities. | [Deploy](./Documents/portal-build-and-deploy.md) | [Documentation](https://learn.microsoft.com/en-us/industry/nonprofit/volunteer-engagement-use) |
-| [Volunteer Management](./VolunteerManagement/README.md)   | Volunteer Management is a Power App that enables the management of day-to-day processes to recruit, onboard, and retain volunteers. | [Deploy](./Documents/dataverse-build-and-deploy.md) | [Documentation](https://learn.microsoft.com/en-us/industry/nonprofit/volunteer-management-use) |
+| **Area** | **Description** |
+|----------|-----------------|
+| Education | Resources and tools that support access to education, learning opportunities, and capacity development. |
+| Humanitarian Action | Materials and solutions that contribute to humanitarian support, emergency response, and community resilience. |
+| Environmental Protection | Content and tools that promote environmental awareness, sustainability, and community-based environmental action. |
+| Capacity Building | Documents, templates, and systems that strengthen organizational effectiveness, local partnerships, and operational readiness. |
+| Partnerships | Resources that support collaboration, coordination, and engagement with local and international partners. |
+| Resource Mobilization | Materials that help advance fundraising, grant development, donor communication, and institutional growth. |
 
 ---
 
-## Trademark
+## Purpose of This Repository
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow Microsoft’s [Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks). Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. Any use of third-party trademarks or logos are subject to those third-party’s policies.
+This repository is being developed as a practical space for HEHESPO’s organizational and technical resources. Over time, it may include:
+
+- website-related materials
+- organizational profiles and public-facing content
+- policy and governance documents
+- proposal and concept note templates
+- partnership and due diligence tools
+- program design and monitoring resources
+- technical documentation and digital workflows
+
+The overall goal is to create a structured, accessible, and reusable resource base that supports HEHESPO’s work and strengthens its ability to operate professionally and collaboratively.
+
+---
+
+## Use and Attribution
+
+The content in this repository is intended to support HEHESPO’s nonprofit and development work. Where applicable, external tools, frameworks, or third-party references remain subject to their respective owners’ terms, policies, and intellectual property guidelines.
+
+Use of this repository’s materials should not imply endorsement by any external institution unless explicitly stated.
